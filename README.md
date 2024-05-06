@@ -22,3 +22,5 @@ Step 5: Function to check the selected answer.
        Restart from the first question
 
 Step 6: Display the first question when the page loads.
+
+Step 7: Add flexbox to make the Quiz more responsive!
