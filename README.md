@@ -4,9 +4,9 @@ Step 1: Define the quiz data, and add 3 more questions, options and answers to t
 
 Step 2: Get the HTML elements by ID.
 
-Step 3: Initialize a variable for the current question index
+Step 3: Initialize a variable for the current question index.
   
-        // In computer programming, .forEach loop (or for-each loop) is a control flow statement for traversing items in a collection.
+        In computer programming, .forEach loop (or for-each loop) is a control flow statement for traversing items in a collection.
 
 Step 4: Function to display the current question and options (use .forEach).
 
